@@ -31,3 +31,55 @@ We are using this data to highlight the most important habits that affect mental
 1.  Reducing digital dependency.
 2.  Improving sleep quality by managing screen time.
 3.  Encouraging a more active social and physical life.
+
+---
+
+## Team Members
+
+<div align="center" style="width: 100%;">
+
+<table width="100%" style="border-collapse: separate; border-spacing: 15px;">
+
+<tr>
+
+<td align="center" width="50%">
+  <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:16px; padding:25px; width:100%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: 0.3s;">
+    <img src="https://github.com/yossefhaytham.png" width="110" style="border-radius:12px;" /><br><br>
+    <b style="font-size:18px;">Yossef Haytham</b><br>
+    <a href="https://github.com/yossefhaytham">github.com/yossefhaytham</a>
+  </div>
+</td>
+
+<td align="center" width="50%">
+  <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:16px; padding:25px; width:100%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: 0.3s;">
+    <img src="https://github.com/alma8raby.png" width="110" style="border-radius:12px;" /><br><br>
+    <b style="font-size:18px;">Ibrahim Abduljawad</b><br>
+    <a href="https://github.com/alma8raby">github.com/alma8raby</a>
+  </div>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+  <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:16px; padding:25px; width:100%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: 0.3s;">
+    <img src="https://github.com/Ahmedkamalhikal.png" width="110" style="border-radius:12px;" /><br><br>
+    <b style="font-size:18px;">Ahmed Kamal</b><br>
+    <a href="https://github.com/Ahmedkamalhikal">github.com/Ahmedkamalhikal</a>
+  </div>
+</td>
+
+<td align="center" width="50%">
+  <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:16px; padding:25px; width:100%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: 0.3s;">
+    <img src="https://github.com/Ahmedsherif1306.png" width="110" style="border-radius:12px;" /><br><br>
+    <b style="font-size:18px;">Ahmed Sherif</b><br>
+    <a href="https://github.com/Ahmedsherif1306">github.com/Ahmedsherif1306</a>
+  </div>
+</td>
+
+</tr>
+
+</table>
+
+</div>
