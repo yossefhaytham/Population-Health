@@ -1,215 +1,215 @@
-age,gender,status,daily screen time hours,daily social media hours,physical exercise,sleep hour,check phone morning,irritable recently,top apps,doomscroll level,ContentFormat_ID,StayFactor_ID,SkipPoint_KEY,VisualEffect_Key,screen_time_level,social_media_level,sleep_level
-18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,No,Instagram,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Low
-18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,6 – 7 hours,Always,Yes,WhatsApp,2,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very High,High,Good
-18-24,Female,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Medium,Very High
-18-24,Female,S,More than 8 hours,3 – 5 hours,Yes,More than 8 hours,Always,No,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Medium,Very High
-18-24,Male,S,6 - 8 hours,3 – 5 hours,No,More than 8 hours,Always,No,Facebook,3,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,High,Medium,Very High
-18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,6 – 7 hours,Always,No,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Medium,Low,Good
-18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Instagram,3,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Medium,Low
-18-24,Male,S,4 - 6 hours,1 – 3 hours,No,7 – 8 hours,Always,i don't know,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Medium,Low,High
-18-24,Male,S,6 - 8 hours,More than 7 hours,No,More than 8 hours,Always,Yes,Instagram,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Very High,Very High
-18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,Less than 5 hours,Always,Yes,Youtube,1,VID_SHORT,STATS_DATA,SKIP_INTEREST,YES_SIG,Very High,Low,very Low
-18-24,Male,S,More than 8 hours,5 – 7 hours,Yes,6 – 7 hours,Always,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,High,Good
-18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,More than 8 hours,Always,No,Instagram,2,VID_EDUC,STATS_DATA,SKIP_INTEREST,YES_SIG,Very High,Low,Very High
-18-24,Male,S,More than 8 hours,3 – 5 hours,No,6 – 7 hours,Always,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,Very High,Medium,Good
-18-24,Female,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,Very High,Medium,Low
-18-24,Female,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Tiktok,1,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Low,Very High
-18-24,Male,S,More than 8 hours,Less than 1 hour,No,More than 8 hours,Always,No,Facebook,1,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Very High,very Low,Very High
-18-24,Male,S,6 - 8 hours,3 – 5 hours,Yes,6 – 7 hours,Always,No,Facebook,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,High,Medium,Good
-18-24,Male,S,6 - 8 hours,Less than 1 hour,Yes,6 – 7 hours,Always,No,Discord,1,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,very Low,Good
-18-24,Male,S,More than 8 hours,1 – 3 hours,No,More than 8 hours,Always,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Very High
-18-24,Male,S,4 - 6 hours,Less than 1 hour,I was playing and I stopped,More than 8 hours,Always,Yes,Youtube,2,VID_EDUC,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,very Low,Very High
-18-24,Female,S,6 - 8 hours,1 – 3 hours,Yes,6 – 7 hours,Always,Yes,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,Good
-18-24,Male,S,4 - 6 hours,3 – 5 hours,Yes,5 – 6 hours,Always,No,Youtube,1,STORY_REAL,STATS_DATA,SKIP_PACE,YES_SIG,Medium,Medium,Low
-18-24,Male,S,4 - 6 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,No,Twitter,2,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,Good
-18-24,Female,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,Low
-18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,7 – 8 hours,Always,No,Youtube,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Low,High
-18-24,Female,S,More than 8 hours,More than 7 hours,I was playing and I stopped,More than 8 hours,Always,No,Instagram,2,VID_EDUC,STATS_DATA,SKIP_INTEREST,YES_SIG,Very High,Very High,Very High
-18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Always,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,High
-18-24,Male,S,More than 8 hours,5 – 7 hours,No,5 – 6 hours,Always,No,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,High,Low
-18-24,Male,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Always,No,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Low,High
-18-24,Male,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Always,No,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,High,Medium,Good
-18-24,Female,S,More than 8 hours,3 – 5 hours,No,6 – 7 hours,Always,Yes,WhatsApp,2,STORY_REAL,VISUAL_MQ,SKIP_PACE,YES_SIG,Very High,Medium,Good
-18-24,Male,S,6 - 8 hours,1 – 3 hours,Yes,5 – 6 hours,Always,Yes,Youtube,1,VID_EDUC,STATS_DATA,SKIP_INTEREST,NO_CONTENT,High,Low,Low
-18-24,Female,S,6 - 8 hours,More than 7 hours,Yes,7 – 8 hours,Always,Yes,Tiktok,2,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,High,Very High,High
-18-24,Female,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Always,No,WhatsApp,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,High,Very High
-18-24,Male,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,i don't know,Youtube,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Medium,Low
-18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,STATS_DATA,SKIP_PACE,YES_SIG,Medium,Medium,Low
-18-24,Female,S,6 - 8 hours,3 – 5 hours,No,7 – 8 hours,Always,No,Tiktok,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Medium,High
-18-24,Male,S,4 - 6 hours,3 – 5 hours,Yes,7 – 8 hours,Always,No,Facebook,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Medium,Medium,High
-18-24,Female,S,More than 8 hours,More than 7 hours,No,5 – 6 hours,Always,Yes,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Very High,Low
-18-24,Female,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,High,Very High
-18-24,Female,S,6 - 8 hours,5 – 7 hours,No,7 – 8 hours,Always,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,High,High
-18-24,Female,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Always,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,High,Very High
-18-24,Female,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,6 – 7 hours,Always,No,Tiktok,3,STORY_REAL,SUB_HEAD,SKIP_HOOK,YES_SIG,High,High,Good
-18-24,Female,S,More than 8 hours,More than 7 hours,No,6 – 7 hours,Always,Yes,Tiktok,3,STORY_REAL,SUB_HEAD,SKIP_PACE,YES_SIG,Very High,Very High,Good
-18-24,Female,S,6 - 8 hours,1 – 3 hours,No,6 – 7 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,Good
-18-24,Male,S,More than 8 hours,More than 7 hours,No,7 – 8 hours,Always,No,Twitter,2,VID_SHORT,STATS_DATA,SKIP_HOOK,YES_SIG,Very High,Very High,High
-18-24,Female,S,6 - 8 hours,3 – 5 hours,No,More than 8 hours,Always,Yes,Facebook,3,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,High,Medium,Very High
-18-24,Female,S,6 - 8 hours,3 – 5 hours,No,More than 8 hours,Always,i don't know,Tiktok,2,VID_EDUC,SUB_HEAD,SKIP_INTEREST,NO_CONTENT,High,Medium,Very High
-18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Tiktok,2,STORY_REAL,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,Medium,Low
-18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Always,Yes,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,Medium,Low,Low
-18-24,Female,S,More than 8 hours,More than 7 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Instagram,3,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Very High,Low
-18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Tiktok,3,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,High,Medium,Very High
-18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Always,Yes,Youtube,1,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Low,High
-18-24,Female,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,WhatsApp,3,STORY_REAL,TONE_STYLE,SKIP_HOOK,YES_SIG,Very High,Low,Low
-18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,i don't know,Youtube,3,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Good
-18-24,Male,S,4 - 6 hours,3 – 5 hours,Yes,More than 8 hours,Always,No,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,Medium,Medium,Very High
-18-24,Female,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,No,Tiktok,2,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Low,Good
-18-24,Female,S,More than 8 hours,More than 7 hours,I was playing and I stopped,7 – 8 hours,Always,Yes,WhatsApp,3,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,Very High,Very High,High
-18-24,Female,S,6 - 8 hours,More than 7 hours,No,More than 8 hours,Always,Yes,Tiktok,3,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Very High,Very High
-18-24,Female,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,No,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,High,Low
-18-24,Male,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Medium,Low
-18-24,Female,S,More than 8 hours,3 – 5 hours,No,6 – 7 hours,Always,No,Instagram,1,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Medium,Good
-18-24,Male,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Always,No,Tiktok,1,VID_SHORT,STATS_DATA,SKIP_HOOK,NO_CONTENT,Medium,Medium,Very High
+age,gender,status,daily screen time hours,daily social media hours,physical exercise,sleep hour,check phone morning,irritable recently,top apps,doomscroll level,ContentFormat_ID,StayFactor_ID,SkipPoint_KEY,VisualEffect_Key,screen_time_level,sleep_level,social_media_usage
+18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,No,Instagram,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Low 
+18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,6 – 7 hours,Always,Yes,WhatsApp,2,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very High,Good,High
+18-24,Female,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Very High,Moderate 
+18-24,Female,S,More than 8 hours,3 – 5 hours,Yes,More than 8 hours,Always,No,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Very High,Moderate 
+18-24,Male,S,6 - 8 hours,3 – 5 hours,No,More than 8 hours,Always,No,Facebook,3,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,High,Very High,High
+18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,6 – 7 hours,Always,No,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Medium,Good,Moderate 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Instagram,3,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Low,High
+18-24,Male,S,4 - 6 hours,1 – 3 hours,No,7 – 8 hours,Always,i don't know,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Medium,High,Moderate 
+18-24,Male,S,6 - 8 hours,More than 7 hours,No,More than 8 hours,Always,Yes,Instagram,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Very High,
+18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,Less than 5 hours,Always,Yes,Youtube,1,VID_SHORT,STATS_DATA,SKIP_INTEREST,YES_SIG,Very High,very Low,Low 
+18-24,Male,S,More than 8 hours,5 – 7 hours,Yes,6 – 7 hours,Always,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Good,High
+18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,More than 8 hours,Always,No,Instagram,2,VID_EDUC,STATS_DATA,SKIP_INTEREST,YES_SIG,Very High,Very High,Low 
+18-24,Male,S,More than 8 hours,3 – 5 hours,No,6 – 7 hours,Always,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,Very High,Good,Moderate 
+18-24,Female,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,Very High,Low,Moderate 
+18-24,Female,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Tiktok,1,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Very High,Moderate 
+18-24,Male,S,More than 8 hours,Less than 1 hour,No,More than 8 hours,Always,No,Facebook,1,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Very High,Very High,Low 
+18-24,Male,S,6 - 8 hours,3 – 5 hours,Yes,6 – 7 hours,Always,No,Facebook,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,High,Good,High
+18-24,Male,S,6 - 8 hours,Less than 1 hour,Yes,6 – 7 hours,Always,No,Discord,1,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Good,Low 
+18-24,Male,S,More than 8 hours,1 – 3 hours,No,More than 8 hours,Always,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Very High,Low 
+18-24,Male,S,4 - 6 hours,Less than 1 hour,I was playing and I stopped,More than 8 hours,Always,Yes,Youtube,2,VID_EDUC,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,Very High,Low 
+18-24,Female,S,6 - 8 hours,1 – 3 hours,Yes,6 – 7 hours,Always,Yes,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,High,Good,Moderate 
+18-24,Male,S,4 - 6 hours,3 – 5 hours,Yes,5 – 6 hours,Always,No,Youtube,1,STORY_REAL,STATS_DATA,SKIP_PACE,YES_SIG,Medium,Low,Extreme 
+18-24,Male,S,4 - 6 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,No,Twitter,2,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Good,Moderate 
+18-24,Female,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,Moderate 
+18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,7 – 8 hours,Always,No,Youtube,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,High,Low 
+18-24,Female,S,More than 8 hours,More than 7 hours,I was playing and I stopped,More than 8 hours,Always,No,Instagram,2,VID_EDUC,STATS_DATA,SKIP_INTEREST,YES_SIG,Very High,Very High,Extreme 
+18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Always,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,High,Moderate 
+18-24,Male,S,More than 8 hours,5 – 7 hours,No,5 – 6 hours,Always,No,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Low,High
+18-24,Male,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Always,No,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,High,Moderate 
+18-24,Male,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Always,No,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,High,Good,High
+18-24,Female,S,More than 8 hours,3 – 5 hours,No,6 – 7 hours,Always,Yes,WhatsApp,2,STORY_REAL,VISUAL_MQ,SKIP_PACE,YES_SIG,Very High,Good,Moderate 
+18-24,Male,S,6 - 8 hours,1 – 3 hours,Yes,5 – 6 hours,Always,Yes,Youtube,1,VID_EDUC,STATS_DATA,SKIP_INTEREST,NO_CONTENT,High,Low,Moderate 
+18-24,Female,S,6 - 8 hours,More than 7 hours,Yes,7 – 8 hours,Always,Yes,Tiktok,2,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,High,High,
+18-24,Female,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Always,No,WhatsApp,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,Very High,Extreme 
+18-24,Male,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,i don't know,Youtube,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Low,Moderate 
+18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,STATS_DATA,SKIP_PACE,YES_SIG,Medium,Low,Extreme 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,No,7 – 8 hours,Always,No,Tiktok,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,High,High
+18-24,Male,S,4 - 6 hours,3 – 5 hours,Yes,7 – 8 hours,Always,No,Facebook,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Medium,High,Extreme 
+18-24,Female,S,More than 8 hours,More than 7 hours,No,5 – 6 hours,Always,Yes,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Low,Extreme 
+18-24,Female,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Very High,High
+18-24,Female,S,6 - 8 hours,5 – 7 hours,No,7 – 8 hours,Always,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,High,Extreme 
+18-24,Female,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Always,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Very High,Extreme 
+18-24,Female,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,6 – 7 hours,Always,No,Tiktok,3,STORY_REAL,SUB_HEAD,SKIP_HOOK,YES_SIG,High,Good,Extreme 
+18-24,Female,S,More than 8 hours,More than 7 hours,No,6 – 7 hours,Always,Yes,Tiktok,3,STORY_REAL,SUB_HEAD,SKIP_PACE,YES_SIG,Very High,Good,Extreme 
+18-24,Female,S,6 - 8 hours,1 – 3 hours,No,6 – 7 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Good,Moderate 
+18-24,Male,S,More than 8 hours,More than 7 hours,No,7 – 8 hours,Always,No,Twitter,2,VID_SHORT,STATS_DATA,SKIP_HOOK,YES_SIG,Very High,High,Extreme 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,No,More than 8 hours,Always,Yes,Facebook,3,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,High,Very High,High
+18-24,Female,S,6 - 8 hours,3 – 5 hours,No,More than 8 hours,Always,i don't know,Tiktok,2,VID_EDUC,SUB_HEAD,SKIP_INTEREST,NO_CONTENT,High,Very High,High
+18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Tiktok,2,STORY_REAL,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,Low,Extreme 
+18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Always,Yes,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,Medium,Low,Moderate 
+18-24,Female,S,More than 8 hours,More than 7 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Instagram,3,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Low,Extreme 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Tiktok,3,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,High,Very High,High
+18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Always,Yes,Youtube,1,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,High,Moderate 
+18-24,Female,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,WhatsApp,3,STORY_REAL,TONE_STYLE,SKIP_HOOK,YES_SIG,Very High,Low,Low 
+18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,i don't know,Youtube,3,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Good,Low 
+18-24,Male,S,4 - 6 hours,3 – 5 hours,Yes,More than 8 hours,Always,No,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,Medium,Very High,Extreme 
+18-24,Female,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,No,Tiktok,2,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Good,Moderate 
+18-24,Female,S,More than 8 hours,More than 7 hours,I was playing and I stopped,7 – 8 hours,Always,Yes,WhatsApp,3,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,Very High,High,Extreme 
+18-24,Female,S,6 - 8 hours,More than 7 hours,No,More than 8 hours,Always,Yes,Tiktok,3,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Very High,
+18-24,Female,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,No,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Low,Extreme 
+18-24,Male,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Low,High
+18-24,Female,S,More than 8 hours,3 – 5 hours,No,6 – 7 hours,Always,No,Instagram,1,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Good,Moderate 
+18-24,Male,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Always,No,Tiktok,1,VID_SHORT,STATS_DATA,SKIP_HOOK,NO_CONTENT,Medium,Very High,Extreme 
 18-24,Female,S,More than 8 hours,5 – 7 hours,No,7 – 8 hours,Always,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,High,High
-18-24,Male,S,More than 8 hours,3 – 5 hours,No,7 – 8 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Medium,High
-18-24,Male,S,2 - 4 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,No,Tiktok,1,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Low,High,Low
-18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,i don't know,Youtube,3,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,Very High,Low,Good
-18-24,Male,S,More than 8 hours,1 – 3 hours,No,7 – 8 hours,Always,Yes,WhatsApp,1,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Low,High
-18-24,Male,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Medium,Low
-18-24,Male,S,6 - 8 hours,3 – 5 hours,Yes,6 – 7 hours,Always,No,Facebook,1,STORY_REAL,VISUAL_MQ,SKIP_PACE,NO_CONTENT,High,Medium,Good
-18-24,Female,S,4 - 6 hours,3 – 5 hours,No,7 – 8 hours,Always,Yes,Youtube,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Medium,High
-18-24,Male,S,6 - 8 hours,1 – 3 hours,Yes,More than 8 hours,Always,Yes,WhatsApp,2,VID_SHORT,SUB_HEAD,SKIP_HOOK,YES_SIG,High,Low,Very High
-18-24,Female,S,6 - 8 hours,5 – 7 hours,No,More than 8 hours,Always,i don't know,Tiktok,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,High,Very High
-18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,6 – 7 hours,Always,No,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Low,Good
-18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,6 – 7 hours,Always,No,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Low,Good
-18-24,Female,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Always,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_HOOK,NO_CONTENT,High,Low,High
-18-24,Female,S,6 - 8 hours,3 – 5 hours,Yes,7 – 8 hours,Always,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,Medium,High
-18-24,Male,S,6 - 8 hours,Less than 1 hour,I was playing and I stopped,5 – 6 hours,Always,i don't know,Facebook,1,STORY_REAL,VISUAL_MQ,SKIP_HOOK,NO_CONTENT,High,very Low,Low
+18-24,Male,S,More than 8 hours,3 – 5 hours,No,7 – 8 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,High,Moderate 
+18-24,Male,S,2 - 4 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,No,Tiktok,1,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Low,Low,
+18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,i don't know,Youtube,3,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,Very High,Good,Low 
+18-24,Male,S,More than 8 hours,1 – 3 hours,No,7 – 8 hours,Always,Yes,WhatsApp,1,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,High,Low 
+18-24,Male,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Low,High
+18-24,Male,S,6 - 8 hours,3 – 5 hours,Yes,6 – 7 hours,Always,No,Facebook,1,STORY_REAL,VISUAL_MQ,SKIP_PACE,NO_CONTENT,High,Good,High
+18-24,Female,S,4 - 6 hours,3 – 5 hours,No,7 – 8 hours,Always,Yes,Youtube,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,High,Extreme 
+18-24,Male,S,6 - 8 hours,1 – 3 hours,Yes,More than 8 hours,Always,Yes,WhatsApp,2,VID_SHORT,SUB_HEAD,SKIP_HOOK,YES_SIG,High,Very High,Moderate 
+18-24,Female,S,6 - 8 hours,5 – 7 hours,No,More than 8 hours,Always,i don't know,Tiktok,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Very High,Extreme 
+18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,6 – 7 hours,Always,No,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Good,Moderate 
+18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,6 – 7 hours,Always,No,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Good,Low 
+18-24,Female,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Always,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_HOOK,NO_CONTENT,High,High,Moderate 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,Yes,7 – 8 hours,Always,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,High,High
+18-24,Male,S,6 - 8 hours,Less than 1 hour,I was playing and I stopped,5 – 6 hours,Always,i don't know,Facebook,1,STORY_REAL,VISUAL_MQ,SKIP_HOOK,NO_CONTENT,High,Low,Low 
 18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,7 – 8 hours,Always,i don't know,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,High,High
-18-24,Female,S,More than 8 hours,More than 7 hours,No,More than 8 hours,Always,Yes,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Very High,Very High
-18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,High,Low
-18-24,Male,S,4 - 6 hours,Less than 1 hour,No,7 – 8 hours,Always,No,WhatsApp,1,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Medium,very Low,High
-18-24,Female,S,More than 8 hours,More than 7 hours,I was playing and I stopped,7 – 8 hours,Always,Yes,WhatsApp,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Very High,High
-18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,Less than 5 hours,Always,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Medium,very Low
-18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,6 – 7 hours,Always,Yes,Instagram,1,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,High,Good
-18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Medium,Low
-18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,High,Low
-18-24,Female,S,4 - 6 hours,3 – 5 hours,No,6 – 7 hours,Never,No,Facebook,3,STORY_REAL,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,Medium,Good
-18-24,Male,S,6 - 8 hours,1 – 3 hours,No,7 – 8 hours,Sometimes,No,WhatsApp,1,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,High
-18-24,Female,S,4 - 6 hours,1 – 3 hours,No,5 – 6 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Medium,Low,Low
-18-24,Male,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Sometimes,Yes,WhatsApp,1,VID_EDUC,STATS_DATA,SKIP_INTEREST,NO_CONTENT,High,Low,Low
-18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Sometimes,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,High
-18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Sometimes,No,Tiktok,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Medium,Medium,Very High
-18-24,Female,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Sometimes,Yes,Youtube,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Low
-18-24,Female,S,2 - 4 hours,Less than 1 hour,Yes,7 – 8 hours,Sometimes,Yes,Snapchat,3,STORY_REAL,VISUAL_MQ,SKIP_HOOK,NO_CONTENT,Low,very Low,High
-18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Sometimes,No,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Low,High
-18-24,Female,S,4 - 6 hours,1 – 3 hours,No,6 – 7 hours,Sometimes,Yes,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Low,Good
-18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Never,Yes,Youtube,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,High,Very High
-18-24,Male,S,2 - 4 hours,1 – 3 hours,No,5 – 6 hours,Sometimes,No,WhatsApp,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,YES_SIG,Low,Low,Low
-18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,6 – 7 hours,Sometimes,i don't know,Youtube,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Low,Good
-18-24,Male,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Sometimes,No,Youtube,1,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Medium,Very High
-18-24,Female,S,4 - 6 hours,1 – 3 hours,I was playing and I stopped,Less than 5 hours,Sometimes,No,Tellonym,1,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,very Low
-18-24,Male,S,6 - 8 hours,Less than 1 hour,I was playing and I stopped,7 – 8 hours,Sometimes,No,Youtube,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,YES_SIG,High,very Low,High
-18-24,Male,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Sometimes,i don't know,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Medium,Low
-18-24,Female,S,4 - 6 hours,3 – 5 hours,No,6 – 7 hours,Sometimes,Yes,Facebook,1,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Medium,Good
-18-24,Male,S,4 - 6 hours,Less than 1 hour,I was playing and I stopped,6 – 7 hours,Never,No,Youtube,1,VID_EDUC,SUB_HEAD,SKIP_PACE,NO_CONTENT,Medium,very Low,Good
-18-24,Male,S,6 - 8 hours,1 – 3 hours,Yes,5 – 6 hours,Sometimes,No,Tiktok,1,STORY_REAL,STATS_DATA,SKIP_INTEREST,NO_CONTENT,High,Low,Low
-18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,Yes,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,High,Medium,Good
-18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,7 – 8 hours,Sometimes,Yes,Youtube,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Low,High
-18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,No,WhatsApp,2,STORY_REAL,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,Medium,Good
+18-24,Female,S,More than 8 hours,More than 7 hours,No,More than 8 hours,Always,Yes,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Very High,Extreme 
+18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Low,High
+18-24,Male,S,4 - 6 hours,Less than 1 hour,No,7 – 8 hours,Always,No,WhatsApp,1,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Medium,High,Low 
+18-24,Female,S,More than 8 hours,More than 7 hours,I was playing and I stopped,7 – 8 hours,Always,Yes,WhatsApp,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,High,Extreme 
+18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,Less than 5 hours,Always,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,very Low,Extreme 
+18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,6 – 7 hours,Always,Yes,Instagram,1,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Good,High
+18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,High
+18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Low,High
+18-24,Female,S,4 - 6 hours,3 – 5 hours,No,6 – 7 hours,Never,No,Facebook,3,STORY_REAL,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,Good,Extreme 
+18-24,Male,S,6 - 8 hours,1 – 3 hours,No,7 – 8 hours,Sometimes,No,WhatsApp,1,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,High,High,Moderate 
+18-24,Female,S,4 - 6 hours,1 – 3 hours,No,5 – 6 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Medium,Low,Moderate 
+18-24,Male,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Sometimes,Yes,WhatsApp,1,VID_EDUC,STATS_DATA,SKIP_INTEREST,NO_CONTENT,High,Low,Moderate 
+18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Sometimes,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,High,Moderate 
+18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Sometimes,No,Tiktok,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Medium,Very High,Extreme 
+18-24,Female,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Sometimes,Yes,Youtube,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Low 
+18-24,Female,S,2 - 4 hours,Less than 1 hour,Yes,7 – 8 hours,Sometimes,Yes,Snapchat,3,STORY_REAL,VISUAL_MQ,SKIP_HOOK,NO_CONTENT,Low,High,Low 
+18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Sometimes,No,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,High,Low 
+18-24,Female,S,4 - 6 hours,1 – 3 hours,No,6 – 7 hours,Sometimes,Yes,Instagram,2,STORY_REAL,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Good,Moderate 
+18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Never,Yes,Youtube,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Very High,High
+18-24,Male,S,2 - 4 hours,1 – 3 hours,No,5 – 6 hours,Sometimes,No,WhatsApp,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,YES_SIG,Low,Low,High
+18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,6 – 7 hours,Sometimes,i don't know,Youtube,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Good,Low 
+18-24,Male,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Sometimes,No,Youtube,1,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Very High,Moderate 
+18-24,Female,S,4 - 6 hours,1 – 3 hours,I was playing and I stopped,Less than 5 hours,Sometimes,No,Tellonym,1,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,very Low,Moderate 
+18-24,Male,S,6 - 8 hours,Less than 1 hour,I was playing and I stopped,7 – 8 hours,Sometimes,No,Youtube,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,YES_SIG,High,High,Low 
+18-24,Male,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Sometimes,i don't know,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,Low,Moderate 
+18-24,Female,S,4 - 6 hours,3 – 5 hours,No,6 – 7 hours,Sometimes,Yes,Facebook,1,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Good,Extreme 
+18-24,Male,S,4 - 6 hours,Less than 1 hour,I was playing and I stopped,6 – 7 hours,Never,No,Youtube,1,VID_EDUC,SUB_HEAD,SKIP_PACE,NO_CONTENT,Medium,Good,Low 
+18-24,Male,S,6 - 8 hours,1 – 3 hours,Yes,5 – 6 hours,Sometimes,No,Tiktok,1,STORY_REAL,STATS_DATA,SKIP_INTEREST,NO_CONTENT,High,Low,Moderate 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,Yes,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,High,Good,High
+18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,7 – 8 hours,Sometimes,Yes,Youtube,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Very High,High,Low 
+18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,No,WhatsApp,2,STORY_REAL,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,Good,Extreme 
 18-24,Male,S,More than 8 hours,5 – 7 hours,I was playing and I stopped,7 – 8 hours,Sometimes,Yes,Tiktok,3,VID_SHORT,SUB_HEAD,SKIP_INTEREST,YES_SIG,Very High,High,High
-18-24,Female,S,4 - 6 hours,3 – 5 hours,No,7 – 8 hours,Sometimes,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Medium,High
-18-24,Female,S,4 - 6 hours,3 – 5 hours,No,6 – 7 hours,Sometimes,i don't know,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Medium,Medium,Good
-18-24,Male,S,2 - 4 hours,1 – 3 hours,Yes,More than 8 hours,Sometimes,No,Facebook,2,VID_EDUC,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Low,Low,Very High
-18-24,Female,S,Less than 2 hours,Less than 1 hour,Yes,7 – 8 hours,Sometimes,i don't know,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very Low,very Low,High
-18-24,Female,S,6 - 8 hours,3 – 5 hours,Yes,7 – 8 hours,Sometimes,No,Youtube,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,High,Medium,High
-18-24,Male,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Sometimes,No,Tiktok,2,VID_SHORT,SUB_HEAD,SKIP_INTEREST,NO_CONTENT,High,High,Very High
-18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,No,Instagram,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,High,Medium,Good
-18-24,Female,S,More than 8 hours,More than 7 hours,Yes,Less than 5 hours,Sometimes,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very High,Very High,very Low
-18-24,Female,S,2 - 4 hours,1 – 3 hours,No,6 – 7 hours,Sometimes,No,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Low,Low,Good
-18-24,Female,S,6 - 8 hours,1 – 3 hours,Yes,7 – 8 hours,Never,No,WhatsApp,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,Low,High
-18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,7 – 8 hours,Sometimes,Yes,Tiktok,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Medium,High
-18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,7 – 8 hours,Sometimes,No,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Medium,High
-18-24,Female,S,Less than 2 hours,Less than 1 hour,I was playing and I stopped,5 – 6 hours,Sometimes,No,WhatsApp,1,VID_EDUC,STATS_DATA,SKIP_HOOK,YES_SIG,Very Low,very Low,Low
-18-24,Male,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Sometimes,Yes,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Low,High
-18-24,Male,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Sometimes,i don't know,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Medium,Low
-18-24,Male,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,i don't know,Youtube,2,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Medium,Good
-18-24,Male,S,6 - 8 hours,3 – 5 hours,Yes,6 – 7 hours,Sometimes,i don't know,Twitter,2,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Medium,Good
-18-24,Male,S,6 - 8 hours,Less than 1 hour,Yes,5 – 6 hours,Sometimes,Yes,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,very Low,Low
-18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,5 – 6 hours,Sometimes,No,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Low
-18-24,Male,S,2 - 4 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Sometimes,No,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,Low
-18-24,Male,S,4 - 6 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Never,No,WhatsApp,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Medium,Low,Good
-18-24,Male,S,2 - 4 hours,Less than 1 hour,Yes,6 – 7 hours,Never,Yes,Instagram,3,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Low,very Low,Good
-18-24,Male,S,4 - 6 hours,Less than 1 hour,No,6 – 7 hours,Never,No,WhatsApp,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Medium,very Low,Good
-18-24,Male,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,7 – 8 hours,Sometimes,Yes,Tiktok,2,VID_SHORT,SUB_HEAD,SKIP_PACE,YES_SIG,High,High,High
-18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Never,No,WhatsApp,1,VID_EDUC,VISUAL_MQ,SKIP_PACE,YES_SIG,Medium,Low,Low
-18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Sometimes,No,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Good
-18-24,Male,S,6 - 8 hours,3 – 5 hours,Yes,7 – 8 hours,Sometimes,No,Tiktok,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Medium,High
-18-24,Male,S,More than 8 hours,More than 7 hours,Yes,7 – 8 hours,Sometimes,No,Instagram,1,VID_EDUC,STATS_DATA,SKIP_PACE,NO_CONTENT,Very High,Very High,High
-18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Sometimes,i don't know,Youtube,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,High
-18-24,Male,S,More than 8 hours,Less than 1 hour,No,6 – 7 hours,Sometimes,i don't know,Youtube,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,very Low,Good
-18-24,Female,S,More than 8 hours,1 – 3 hours,No,More than 8 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Low,Very High
-18-24,Male,S,More than 8 hours,3 – 5 hours,Yes,6 – 7 hours,Sometimes,No,Instagram,1,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Very High,Medium,Good
-18-24,Male,S,2 - 4 hours,1 – 3 hours,I was playing and I stopped,More than 8 hours,Sometimes,i don't know,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_HOOK,NO_CONTENT,Low,Low,Very High
-18-24,Male,S,6 - 8 hours,1 – 3 hours,Yes,Less than 5 hours,Sometimes,i don't know,Tiktok,2,STORY_REAL,SUB_HEAD,SKIP_INTEREST,NO_CONTENT,High,Low,very Low
-18-24,Male,S,4 - 6 hours,3 – 5 hours,Yes,5 – 6 hours,Sometimes,i don't know,Tiktok,2,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Medium,Medium,Low
-18-24,Male,E,4 - 6 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Always,Yes,Youtube,2,VID_EDUC,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,Low,High
-18-24,Male,ES,6 - 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Never,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Medium,Good
-18-24,Female,E,More than 8 hours,5 – 7 hours,Yes,More than 8 hours,Always,No,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very High,High,Very High
-18-24,Male,E,More than 8 hours,3 – 5 hours,Yes,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Medium,Low
-18-24,Male,E,More than 8 hours,More than 7 hours,Yes,6 – 7 hours,Always,Yes,Instagram,3,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Very High,Good
-18-24,Male,ES,6 - 8 hours,5 – 7 hours,No,6 – 7 hours,Always,Yes,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,High,High,Good
-18-24,Male,ES,2 - 4 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,WhatsApp,2,VID_EDUC,VISUAL_MQ,SKIP_PACE,YES_SIG,Low,Low,Low
-18-24,Male,ES,2 - 4 hours,Less than 1 hour,Yes,5 – 6 hours,Sometimes,Yes,Facebook,2,VID_EDUC,STATS_DATA,SKIP_HOOK,YES_SIG,Low,very Low,Low
-18-24,Female,ES,6 - 8 hours,5 – 7 hours,No,More than 8 hours,Sometimes,No,Instagram,1,VID_SHORT,SUB_HEAD,SKIP_PACE,YES_SIG,High,High,Very High
-18-24,Male,ES,4 - 6 hours,3 – 5 hours,Yes,7 – 8 hours,Never,Yes,Tiktok,3,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Medium,Medium,High
-18-24,Male,ES,More than 8 hours,3 – 5 hours,I was playing and I stopped,7 – 8 hours,Always,Yes,Tiktok,3,VID_EDUC,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Medium,High
-18-24,Female,ES,6 - 8 hours,1 – 3 hours,No,7 – 8 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,High
-18-24,Male,E,6 - 8 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Facebook,2,VID_SHORT,SUB_HEAD,SKIP_PACE,YES_SIG,High,Medium,Very High
-18-24,Male,ES,More than 8 hours,More than 7 hours,Yes,5 – 6 hours,Always,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very High,Very High,Low
-18-24,Male,ES,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,Yes,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Medium,Medium,Good
-18-24,Male,ES,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Sometimes,No,Tiktok,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Low,Low
-18-24,Female,ES,6 - 8 hours,1 – 3 hours,No,More than 8 hours,Always,No,Facebook,1,VID_EDUC,SUB_HEAD,SKIP_PACE,YES_SIG,High,Low,Very High
-18-24,Female,ES,2 - 4 hours,1 – 3 hours,No,5 – 6 hours,Never,No,Facebook,1,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Low,Low,Low
-18-24,Male,ES,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Tiktok,2,STORY_REAL,VISUAL_MQ,SKIP_HOOK,YES_SIG,High,Medium,Low
-18-24,Female,G,More than 8 hours,More than 7 hours,No,More than 8 hours,Always,i don't know,Tiktok,2,VID_SHORT,SUB_HEAD,SKIP_INTEREST,YES_SIG,Very High,Very High,Very High
-18-24,Male,E,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Always,No,Instagram,2,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Medium,Low,Low
-25-34,Male,E,More than 8 hours,3 – 5 hours,No,6 – 7 hours,Always,Yes,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Medium,Good
-25-34,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Sometimes,i don't know,Instagram,2,VID_EDUC,TONE_STYLE,SKIP_INTEREST,YES_SIG,Medium,Low,High
-55+,Female,G,4 - 6 hours,3 – 5 hours,Yes,More than 8 hours,Always,Yes,Snapchat,2,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Medium,Medium,Very High
-25-34,Female,G,4 - 6 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Sometimes,No,Youtube,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,Medium,Low,High
-25-34,Female,E,6 - 8 hours,5 – 7 hours,No,5 – 6 hours,Always,Yes,Youtube,3,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,High,Low
-25-34,Female,E,6 - 8 hours,3 – 5 hours,No,7 – 8 hours,Always,Yes,Facebook,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,NO_CONTENT,High,Medium,High
-Under 18,Female,S,4 - 6 hours,1 – 3 hours,Yes,6 – 7 hours,Sometimes,i don't know,Tiktok,1,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Medium,Low,Good
-35-44,Female,E,2 - 4 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Sometimes,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,Low
-35-44,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,Medium,Medium,Low
-35-44,Male,E,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,High,Medium,Low
-35-44,Male,E,2 - 4 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,No,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,Good
-35-44,Male,E,4 - 6 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_HOOK,NO_CONTENT,Medium,Low,Low
-45-54,Male,E,Less than 2 hours,Less than 1 hour,No,5 – 6 hours,Sometimes,Yes,Facebook,1,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Very Low,very Low,Low
-35-44,Male,E,More than 8 hours,1 – 3 hours,I was playing and I stopped,Less than 5 hours,Always,Yes,WhatsApp,3,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Low,very Low
-25-34,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Always,No,Facebook,1,VID_EDUC,STATS_DATA,SKIP_PACE,YES_SIG,Medium,Medium,Good
-25-34,Female,G,Less than 2 hours,1 – 3 hours,No,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very Low,Low,Low
-35-44,Male,E,6 - 8 hours,1 – 3 hours,I was playing and I stopped,Less than 5 hours,Sometimes,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,Low,very Low
-45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Medium,Medium,Good
-35-44,Male,E,2 - 4 hours,1 – 3 hours,No,7 – 8 hours,Sometimes,No,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,High
-35-44,Male,E,2 - 4 hours,Less than 1 hour,No,5 – 6 hours,Always,Yes,WhatsApp,1,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Low,very Low,Low
-45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Medium,Low
-35-44,Male,E,6 - 8 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,High,Low
-35-44,Male,E,4 - 6 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,Yes,Facebook,2,VID_EDUC,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Medium,Low,Good
-25-34,Female,G,4 - 6 hours,1 – 3 hours,No,7 – 8 hours,Sometimes,i don't know,WhatsApp,2,VID_SHORT,STATS_DATA,SKIP_HOOK,YES_SIG,Medium,Low,High
-25-34,Female,G,2 - 4 hours,1 – 3 hours,No,Less than 5 hours,Sometimes,i don't know,Tiktok,1,VID_SHORT,SUB_HEAD,SKIP_PACE,NO_CONTENT,Low,Low,very Low
-45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,Less than 5 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Medium,very Low
-55+,Male,G,2 - 4 hours,Less than 1 hour,No,5 – 6 hours,Always,Yes,Facebook,3,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,very Low,Low
-45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Medium,Good
-45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Sometimes,Yes,Tiktok,1,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Medium,Medium,Low
-35-44,Female,G,Less than 2 hours,Less than 1 hour,No,Less than 5 hours,Always,Yes,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very Low,very Low,very Low
-Under 18,Male,S,2 - 4 hours,1 – 3 hours,Yes,5 – 6 hours,Always,Yes,Youtube,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,Low
-45-54,Male,G,Less than 2 hours,Less than 1 hour,I was playing and I stopped,5 – 6 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Very Low,very Low,Low
-25-34,Female,E,Less than 2 hours,1 – 3 hours,No,5 – 6 hours,Sometimes,No,WhatsApp,1,VID_SHORT,SUB_HEAD,SKIP_PACE,NO_CONTENT,Very Low,Low,Low
-25-34,Female,ES,2 - 4 hours,More than 7 hours,No,7 – 8 hours,Never,No,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Very High,High
-35-44,Male,E,More than 8 hours,More than 7 hours,I was playing and I stopped,5 – 6 hours,Always,i don't know,Facebook,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Very High,Low
-Under 18,Female,S,2 - 4 hours,1 – 3 hours,I was playing and I stopped,More than 8 hours,Sometimes,No,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Low,Low,Very High
-45-54,Female,E,6 - 8 hours,3 – 5 hours,No,7 – 8 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Medium,High
-55+,Male,E,6 - 8 hours,More than 7 hours,No,5 – 6 hours,Always,No,Facebook,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,Very High,Low
-55+,Female,G,4 - 6 hours,5 – 7 hours,No,6 – 7 hours,Sometimes,i don't know,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Medium,High,Good
-35-44,Male,E,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Always,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,Low
-25-34,Female,E,More than 8 hours,More than 7 hours,I was playing and I stopped,Less than 5 hours,Always,Yes,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Very High,very Low
-25-34,Male,E,4 - 6 hours,3 – 5 hours,No,5 – 6 hours,Sometimes,Yes,Tiktok,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Medium,Low
-25-34,Female,G,More than 8 hours,More than 7 hours,No,More than 8 hours,Always,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Very High,Very High
-25-34,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Medium,Medium,Low
-35-44,Female,E,4 - 6 hours,3 – 5 hours,No,7 – 8 hours,Sometimes,No,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Medium,High
-35-44,Male,E,6 - 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Sometimes,No,Facebook,1,STORY_REAL,STATS_DATA,SKIP_INTEREST,NO_CONTENT,High,Low,Good
-55+,Female,ES,2 - 4 hours,More than 7 hours,No,Less than 5 hours,Never,Yes,Tiktok,1,STORY_REAL,SUB_HEAD,SKIP_INTEREST,NO_CONTENT,Low,Very High,very Low
+18-24,Female,S,4 - 6 hours,3 – 5 hours,No,7 – 8 hours,Sometimes,Yes,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,High,Extreme 
+18-24,Female,S,4 - 6 hours,3 – 5 hours,No,6 – 7 hours,Sometimes,i don't know,Tiktok,2,VID_SHORT,VISUAL_MQ,SKIP_INTEREST,YES_SIG,Medium,Good,Extreme 
+18-24,Male,S,2 - 4 hours,1 – 3 hours,Yes,More than 8 hours,Sometimes,No,Facebook,2,VID_EDUC,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Low,Very High,High
+18-24,Female,S,Less than 2 hours,Less than 1 hour,Yes,7 – 8 hours,Sometimes,i don't know,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very Low,High,Moderate 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,Yes,7 – 8 hours,Sometimes,No,Youtube,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,YES_SIG,High,High,High
+18-24,Male,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,More than 8 hours,Sometimes,No,Tiktok,2,VID_SHORT,SUB_HEAD,SKIP_INTEREST,NO_CONTENT,High,Very High,Extreme 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,No,Instagram,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,High,Good,High
+18-24,Female,S,More than 8 hours,More than 7 hours,Yes,Less than 5 hours,Sometimes,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very High,very Low,Extreme 
+18-24,Female,S,2 - 4 hours,1 – 3 hours,No,6 – 7 hours,Sometimes,No,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Low,Good,High
+18-24,Female,S,6 - 8 hours,1 – 3 hours,Yes,7 – 8 hours,Never,No,WhatsApp,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,High,Moderate 
+18-24,Female,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,7 – 8 hours,Sometimes,Yes,Tiktok,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,High,Extreme 
+18-24,Female,S,6 - 8 hours,3 – 5 hours,I was playing and I stopped,7 – 8 hours,Sometimes,No,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,High,High
+18-24,Female,S,Less than 2 hours,Less than 1 hour,I was playing and I stopped,5 – 6 hours,Sometimes,No,WhatsApp,1,VID_EDUC,STATS_DATA,SKIP_HOOK,YES_SIG,Very Low,Low,Moderate 
+18-24,Male,S,6 - 8 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Sometimes,Yes,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,High,Moderate 
+18-24,Male,S,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Sometimes,i don't know,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Low,Extreme 
+18-24,Male,S,More than 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,i don't know,Youtube,2,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Good,Moderate 
+18-24,Male,S,6 - 8 hours,3 – 5 hours,Yes,6 – 7 hours,Sometimes,i don't know,Twitter,2,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Good,High
+18-24,Male,S,6 - 8 hours,Less than 1 hour,Yes,5 – 6 hours,Sometimes,Yes,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Low,Low 
+18-24,Male,S,More than 8 hours,1 – 3 hours,Yes,5 – 6 hours,Sometimes,No,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Low,Low 
+18-24,Male,S,2 - 4 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Sometimes,No,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,High
+18-24,Male,S,4 - 6 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Never,No,WhatsApp,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Medium,Good,Moderate 
+18-24,Male,S,2 - 4 hours,Less than 1 hour,Yes,6 – 7 hours,Never,Yes,Instagram,3,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Low,Good,Low 
+18-24,Male,S,4 - 6 hours,Less than 1 hour,No,6 – 7 hours,Never,No,WhatsApp,1,STORY_REAL,VISUAL_MQ,SKIP_INTEREST,NO_CONTENT,Medium,Good,Low 
+18-24,Male,S,6 - 8 hours,5 – 7 hours,I was playing and I stopped,7 – 8 hours,Sometimes,Yes,Tiktok,2,VID_SHORT,SUB_HEAD,SKIP_PACE,YES_SIG,High,High,Extreme 
+18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Never,No,WhatsApp,1,VID_EDUC,VISUAL_MQ,SKIP_PACE,YES_SIG,Medium,Low,Moderate 
+18-24,Male,S,More than 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Sometimes,No,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Good,Low 
+18-24,Male,S,6 - 8 hours,3 – 5 hours,Yes,7 – 8 hours,Sometimes,No,Tiktok,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,High,High
+18-24,Male,S,More than 8 hours,More than 7 hours,Yes,7 – 8 hours,Sometimes,No,Instagram,1,VID_EDUC,STATS_DATA,SKIP_PACE,NO_CONTENT,Very High,High,Extreme 
+18-24,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Sometimes,i don't know,Youtube,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,High,Moderate 
+18-24,Male,S,More than 8 hours,Less than 1 hour,No,6 – 7 hours,Sometimes,i don't know,Youtube,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Good,Low 
+18-24,Female,S,More than 8 hours,1 – 3 hours,No,More than 8 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Very High,Low 
+18-24,Male,S,More than 8 hours,3 – 5 hours,Yes,6 – 7 hours,Sometimes,No,Instagram,1,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Very High,Good,Moderate 
+18-24,Male,S,2 - 4 hours,1 – 3 hours,I was playing and I stopped,More than 8 hours,Sometimes,i don't know,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_HOOK,NO_CONTENT,Low,Very High,High
+18-24,Male,S,6 - 8 hours,1 – 3 hours,Yes,Less than 5 hours,Sometimes,i don't know,Tiktok,2,STORY_REAL,SUB_HEAD,SKIP_INTEREST,NO_CONTENT,High,very Low,Moderate 
+18-24,Male,S,4 - 6 hours,3 – 5 hours,Yes,5 – 6 hours,Sometimes,i don't know,Tiktok,2,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Medium,Low,Extreme 
+18-24,Male,E,4 - 6 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Always,Yes,Youtube,2,VID_EDUC,STATS_DATA,SKIP_INTEREST,YES_SIG,Medium,High,Moderate 
+18-24,Male,ES,6 - 8 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Never,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,Good,High
+18-24,Female,E,More than 8 hours,5 – 7 hours,Yes,More than 8 hours,Always,No,Tiktok,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very High,Very High,High
+18-24,Male,E,More than 8 hours,3 – 5 hours,Yes,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very High,Low,Moderate 
+18-24,Male,E,More than 8 hours,More than 7 hours,Yes,6 – 7 hours,Always,Yes,Instagram,3,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Good,Extreme 
+18-24,Male,ES,6 - 8 hours,5 – 7 hours,No,6 – 7 hours,Always,Yes,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,High,Good,Extreme 
+18-24,Male,ES,2 - 4 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,WhatsApp,2,VID_EDUC,VISUAL_MQ,SKIP_PACE,YES_SIG,Low,Low,High
+18-24,Male,ES,2 - 4 hours,Less than 1 hour,Yes,5 – 6 hours,Sometimes,Yes,Facebook,2,VID_EDUC,STATS_DATA,SKIP_HOOK,YES_SIG,Low,Low,Low 
+18-24,Female,ES,6 - 8 hours,5 – 7 hours,No,More than 8 hours,Sometimes,No,Instagram,1,VID_SHORT,SUB_HEAD,SKIP_PACE,YES_SIG,High,Very High,Extreme 
+18-24,Male,ES,4 - 6 hours,3 – 5 hours,Yes,7 – 8 hours,Never,Yes,Tiktok,3,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Medium,High,Extreme 
+18-24,Male,ES,More than 8 hours,3 – 5 hours,I was playing and I stopped,7 – 8 hours,Always,Yes,Tiktok,3,VID_EDUC,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,High,Moderate 
+18-24,Female,ES,6 - 8 hours,1 – 3 hours,No,7 – 8 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,High,Moderate 
+18-24,Male,E,6 - 8 hours,3 – 5 hours,I was playing and I stopped,More than 8 hours,Always,Yes,Facebook,2,VID_SHORT,SUB_HEAD,SKIP_PACE,YES_SIG,High,Very High,High
+18-24,Male,ES,More than 8 hours,More than 7 hours,Yes,5 – 6 hours,Always,No,Tiktok,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,YES_SIG,Very High,Low,Extreme 
+18-24,Male,ES,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,Yes,Instagram,2,VID_SHORT,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Medium,Good,Extreme 
+18-24,Male,ES,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Sometimes,No,Tiktok,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Low,Moderate 
+18-24,Female,ES,6 - 8 hours,1 – 3 hours,No,More than 8 hours,Always,No,Facebook,1,VID_EDUC,SUB_HEAD,SKIP_PACE,YES_SIG,High,Very High,Moderate 
+18-24,Female,ES,2 - 4 hours,1 – 3 hours,No,5 – 6 hours,Never,No,Facebook,1,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Low,Low,High
+18-24,Male,ES,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Tiktok,2,STORY_REAL,VISUAL_MQ,SKIP_HOOK,YES_SIG,High,Low,High
+18-24,Female,G,More than 8 hours,More than 7 hours,No,More than 8 hours,Always,i don't know,Tiktok,2,VID_SHORT,SUB_HEAD,SKIP_INTEREST,YES_SIG,Very High,Very High,Extreme 
+18-24,Male,E,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Always,No,Instagram,2,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Medium,Low,Moderate 
+25-34,Male,E,More than 8 hours,3 – 5 hours,No,6 – 7 hours,Always,Yes,WhatsApp,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Very High,Good,Moderate 
+25-34,Male,S,4 - 6 hours,1 – 3 hours,Yes,7 – 8 hours,Sometimes,i don't know,Instagram,2,VID_EDUC,TONE_STYLE,SKIP_INTEREST,YES_SIG,Medium,High,Moderate 
+55+,Female,G,4 - 6 hours,3 – 5 hours,Yes,More than 8 hours,Always,Yes,Snapchat,2,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Medium,Very High,Extreme 
+25-34,Female,G,4 - 6 hours,1 – 3 hours,I was playing and I stopped,7 – 8 hours,Sometimes,No,Youtube,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,Medium,High,Moderate 
+25-34,Female,E,6 - 8 hours,5 – 7 hours,No,5 – 6 hours,Always,Yes,Youtube,3,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,Extreme 
+25-34,Female,E,6 - 8 hours,3 – 5 hours,No,7 – 8 hours,Always,Yes,Facebook,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,NO_CONTENT,High,High,High
+Under 18,Female,S,4 - 6 hours,1 – 3 hours,Yes,6 – 7 hours,Sometimes,i don't know,Tiktok,1,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Medium,Good,Moderate 
+35-44,Female,E,2 - 4 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Sometimes,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,High
+35-44,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_HOOK,YES_SIG,Medium,Low,Extreme 
+35-44,Male,E,6 - 8 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_PACE,YES_SIG,High,Low,High
+35-44,Male,E,2 - 4 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,No,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Good,High
+35-44,Male,E,4 - 6 hours,1 – 3 hours,I was playing and I stopped,5 – 6 hours,Always,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_HOOK,NO_CONTENT,Medium,Low,Moderate 
+45-54,Male,E,Less than 2 hours,Less than 1 hour,No,5 – 6 hours,Sometimes,Yes,Facebook,1,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Very Low,Low,Moderate 
+35-44,Male,E,More than 8 hours,1 – 3 hours,I was playing and I stopped,Less than 5 hours,Always,Yes,WhatsApp,3,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,very Low,Low 
+25-34,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Always,No,Facebook,1,VID_EDUC,STATS_DATA,SKIP_PACE,YES_SIG,Medium,Good,Extreme 
+25-34,Female,G,Less than 2 hours,1 – 3 hours,No,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Very Low,Low,
+35-44,Male,E,6 - 8 hours,1 – 3 hours,I was playing and I stopped,Less than 5 hours,Sometimes,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,very Low,Moderate 
+45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Medium,Good,Extreme 
+35-44,Male,E,2 - 4 hours,1 – 3 hours,No,7 – 8 hours,Sometimes,No,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,High,High
+35-44,Male,E,2 - 4 hours,Less than 1 hour,No,5 – 6 hours,Always,Yes,WhatsApp,1,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Low,Low,Low 
+45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,Extreme 
+35-44,Male,E,6 - 8 hours,5 – 7 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,STORY_REAL,TONE_STYLE,SKIP_PACE,NO_CONTENT,High,Low,Extreme 
+35-44,Male,E,4 - 6 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Always,Yes,Facebook,2,VID_EDUC,VISUAL_MQ,SKIP_PACE,NO_CONTENT,Medium,Good,Moderate 
+25-34,Female,G,4 - 6 hours,1 – 3 hours,No,7 – 8 hours,Sometimes,i don't know,WhatsApp,2,VID_SHORT,STATS_DATA,SKIP_HOOK,YES_SIG,Medium,High,Moderate 
+25-34,Female,G,2 - 4 hours,1 – 3 hours,No,Less than 5 hours,Sometimes,i don't know,Tiktok,1,VID_SHORT,SUB_HEAD,SKIP_PACE,NO_CONTENT,Low,very Low,High
+45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,Less than 5 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,very Low,Extreme 
+55+,Male,G,2 - 4 hours,Less than 1 hour,No,5 – 6 hours,Always,Yes,Facebook,3,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,Low 
+45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,6 – 7 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,YES_SIG,Medium,Good,Extreme 
+45-54,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Sometimes,Yes,Tiktok,1,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Medium,Low,Extreme 
+35-44,Female,G,Less than 2 hours,Less than 1 hour,No,Less than 5 hours,Always,Yes,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very Low,very Low,Moderate 
+Under 18,Male,S,2 - 4 hours,1 – 3 hours,Yes,5 – 6 hours,Always,Yes,Youtube,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,Low,High
+45-54,Male,G,Less than 2 hours,Less than 1 hour,I was playing and I stopped,5 – 6 hours,Sometimes,i don't know,Facebook,1,VID_SHORT,STATS_DATA,SKIP_PACE,NO_CONTENT,Very Low,Low,Moderate 
+25-34,Female,E,Less than 2 hours,1 – 3 hours,No,5 – 6 hours,Sometimes,No,WhatsApp,1,VID_SHORT,SUB_HEAD,SKIP_PACE,NO_CONTENT,Very Low,Low,
+25-34,Female,ES,2 - 4 hours,More than 7 hours,No,7 – 8 hours,Never,No,Instagram,2,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Low,High,
+35-44,Male,E,More than 8 hours,More than 7 hours,I was playing and I stopped,5 – 6 hours,Always,i don't know,Facebook,2,VID_SHORT,VISUAL_MQ,SKIP_HOOK,YES_SIG,Very High,Low,Extreme 
+Under 18,Female,S,2 - 4 hours,1 – 3 hours,I was playing and I stopped,More than 8 hours,Sometimes,No,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Low,Very High,High
+45-54,Female,E,6 - 8 hours,3 – 5 hours,No,7 – 8 hours,Always,Yes,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,YES_SIG,High,High,High
+55+,Male,E,6 - 8 hours,More than 7 hours,No,5 – 6 hours,Always,No,Facebook,1,STORY_REAL,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,High,Low,
+55+,Female,G,4 - 6 hours,5 – 7 hours,No,6 – 7 hours,Sometimes,i don't know,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Medium,Good,
+35-44,Male,E,4 - 6 hours,1 – 3 hours,Yes,5 – 6 hours,Always,No,Facebook,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,Moderate 
+25-34,Female,E,More than 8 hours,More than 7 hours,I was playing and I stopped,Less than 5 hours,Always,Yes,Facebook,1,VID_EDUC,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,very Low,Extreme 
+25-34,Male,E,4 - 6 hours,3 – 5 hours,No,5 – 6 hours,Sometimes,Yes,Tiktok,1,VID_SHORT,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,Low,Extreme 
+25-34,Female,G,More than 8 hours,More than 7 hours,No,More than 8 hours,Always,No,Facebook,2,VID_SHORT,TONE_STYLE,SKIP_INTEREST,NO_CONTENT,Very High,Very High,Extreme 
+25-34,Male,E,4 - 6 hours,3 – 5 hours,I was playing and I stopped,5 – 6 hours,Always,Yes,Facebook,2,VID_SHORT,STATS_DATA,SKIP_INTEREST,NO_CONTENT,Medium,Low,Extreme 
+35-44,Female,E,4 - 6 hours,3 – 5 hours,No,7 – 8 hours,Sometimes,No,Facebook,2,VID_EDUC,TONE_STYLE,SKIP_PACE,NO_CONTENT,Medium,High,Extreme 
+35-44,Male,E,6 - 8 hours,1 – 3 hours,I was playing and I stopped,6 – 7 hours,Sometimes,No,Facebook,1,STORY_REAL,STATS_DATA,SKIP_INTEREST,NO_CONTENT,High,Good,Moderate 
+55+,Female,ES,2 - 4 hours,More than 7 hours,No,Less than 5 hours,Never,Yes,Tiktok,1,STORY_REAL,SUB_HEAD,SKIP_INTEREST,NO_CONTENT,Low,very Low,
