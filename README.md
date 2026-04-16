@@ -26,11 +26,29 @@ Working with real-world data is rarely perfect. During the cleaning process, we 
 * **Incomplete Forms:** We managed cases where people did not finish the survey to ensure the final analysis remained fair and consistent.
 * **Formatting:** We worked to make sure the survey answers matched the structure of the data we found on Kaggle so they could be studied together.
 
-## Expected Outcomes
-We are using this data to highlight the most important habits that affect mental and physical health. The final results will offer practical advice on:
-1.  Reducing digital dependency.
-2.  Improving sleep quality by managing screen time.
-3.  Encouraging a more active social and physical life.
+
+## **Data Modeling**
+
+### **1. Survey Data Analysis (Local Field Data)**
+This phase focuses on converting qualitative survey responses into a quantitative framework for deeper behavioral analysis.
+
+* **Weighted Data Transformation:** Standardized textual ranges (e.g., "1-3 hours") by mapping them to numerical midpoints. This allows for precise mathematical aggregation and statistical modeling.
+* **Advanced Feature Engineering:** * **Social Media Intensity:** Created a ratio to measure social media's "share of attention" relative to total screen time, then categorized it into levels (Low to Extreme).
+    * **Risk Flagging:** Developed logic to identify critical behavioral overlaps, such as **"High Screen + Low Sleep"** and **"High Doomscrolling + Sleep Deprivation"** using binary encoding (0/1).
+* **Data Integrity & Casting:** Optimized the dataset by converting object types into categorical data, reducing memory usage and ensuring consistency for visual reporting tools.
+
+---
+
+### **2. Gen Z Digital Wellness (Kaggle Dataset)**
+This stage involves the creation of complex, high-level psychological indices to measure the "digital cost" on modern lifestyles.
+
+* **Psychological Indexing:** Developed proprietary formulas to quantify abstract concepts:
+    * **Reality Disconnection Risk:** A ratio of virtual engagement (Social Media) vs. physical/productive activities (Sports, Work, Study).
+    * **Emotional Cost Ratio:** A derived metric calculating the increase in **Anxiety and Overthinking** per hour of digital consumption.
+* **Lifestyle Stress Modeling:** * **Productivity Distraction Index:** Combined "Night Browsing Rate" with "Social Media Hours" to evaluate the impact on daily focus and work efficiency.
+    * **Sleep Quality Risk:** Modeled the inverse relationship between late-night digital habits and actual recovery time.
+* **Correlation & Validation:** Executed a multi-variable correlation analysis (Heatmaps) to validate the model's logic, confirming strong links between screen habits, mood instability, and mental fatigue.
+* **Dynamic Binning:** Transformed raw numerical outputs into interpretable risk tiers (Young, Core, Mature, Older Gen-Z), making the data actionable for targeted wellness strategies.
 
 ---
 
