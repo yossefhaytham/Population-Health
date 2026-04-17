@@ -1,10 +1,10 @@
 import pandas as pd
 
 # 1. Define File Paths
-arabic_file_path = r"C:\Users\T.B\Desktop\first_file.xlsx"
+arabic_file_path = r"/direction"
 # Update this path to your actual English file
-english_file_path = r"C:\Users\T.B\Desktop\English_file.xlsx" 
-final_output_path = r"C:\Users\T.B\Desktop\data_set_Daily_Habits.xlsx"
+english_file_path = r"/direction" 
+final_output_path = r"/direction for final result"
 
 # 2. Nested Dictionary for Translation
 translation_dict = {
