@@ -27,6 +27,15 @@ Working with real-world data is rarely perfect. During the cleaning process, we 
 * **Formatting:** We worked to make sure the survey answers matched the structure of the data we found on Kaggle so they could be studied together.
 
 
+
+### **Data Transformation & Pre-processing**
+To handle the data cleaning challenges programmatically and transform the raw survey responses into structured, analyzable data, we developed the following Python scripts in our repository:
+
+* **[translate_form.py](./translate_form.py):** Because our survey reached a diverse audience, we collected responses in both Arabic and English. This script acts as the primary data integration tool. It loads the raw Excel files, applies a comprehensive nested dictionary to translate all Arabic categorical responses into standardized English values, unifies the column headers, and merges the two sources into one master dataset (`data_set_Daily_Habits.xlsx`). This ensures our analysis is conducted on a single, uniform data source.
+
+
+* **[fix_error_data.py](./fix_error_data.py):** Text-entry fields in surveys are highly prone to user errors, extra spaces, and inconsistent spellings. This script targets these specific columns (such as the "Which apps consume the most of your time?" column). It performs automated string cleaning by stripping leading and trailing spaces, and utilizes a mapping dictionary to correct typos and unify different naming conventions (e.g., converting "Youtyoub", "YouTube ", and Arabic variations strictly into a unified "Youtube"). This step is critical for accurate grouping and visualization in our final dashboards.
+
 ## **Data Modeling**
 
 ### **1. Survey Data Analysis (Local Field Data)**
