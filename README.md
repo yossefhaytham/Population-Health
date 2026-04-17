@@ -41,6 +41,8 @@ To handle the data cleaning challenges programmatically and transform the raw su
 ## **Data Modeling**
 
 ### **1. Survey Data Analysis (Local Field Data)**
+[**survey data**](https://github.com/yossefhaytham/Population-Health/blob/main/Data/survey_data_original.xlsx)
+
 This phase focuses on converting qualitative survey responses into a quantitative framework for deeper behavioral analysis.
 
 * **Weighted Data Transformation:** Standardized textual ranges (e.g., "1-3 hours") by mapping them to numerical midpoints. This allows for precise mathematical aggregation and statistical modeling.
@@ -51,6 +53,8 @@ This phase focuses on converting qualitative survey responses into a quantitativ
 ---
 
 ### **2. Gen Z Digital Wellness (Kaggle Dataset)**
+[**Kaggle data**](https://www.kaggle.com/datasets/hammadansari7/gen-z-mental-wellness-and-digital-lifestyle-patterns)
+
 This stage involves the creation of complex, high-level psychological indices to measure the "digital cost" on modern lifestyles.
 
 * **Psychological Indexing:** Developed proprietary formulas to quantify abstract concepts:
