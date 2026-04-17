@@ -1,10 +1,10 @@
 import pandas as pd
 
 # 1. Define File Paths
-arabic_file_path = r"/direction"
+arabic_file_path = r"/direction for result of arabic form"
 # Update this path to your actual English file
-english_file_path = r"/direction" 
-final_output_path = r"/direction for final result"
+english_file_path = r"/direction for result of english form" 
+final_output_path = r"/direction to save file"
 
 # 2. Nested Dictionary for Translation
 translation_dict = {
