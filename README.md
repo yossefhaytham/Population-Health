@@ -28,7 +28,9 @@ Working with real-world data is rarely perfect. During the cleaning process, we 
 
 
 
-### **Data Transformation & Pre-processing**
+### **Data Transformation & Preprocessing**
+---
+
 To handle the data cleaning challenges programmatically and transform the raw survey responses into structured, analyzable data, we developed the following Python scripts in our repository:
 
 * **[translate_form.py](https://github.com/yossefhaytham/Population-Health/blob/main/Data-Preprocessing/translate_Form.py):** Because our survey reached a diverse audience, we collected responses in both Arabic and English. This script acts as the primary data integration tool. It loads the raw Excel files, applies a comprehensive nested dictionary to translate all Arabic categorical responses into standardized English values, unifies the column headers, and merges the two sources into one data set. This ensures our analysis is conducted on a single, uniform data source.
