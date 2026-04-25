@@ -31,13 +31,15 @@ Working with real-world data is rarely perfect. During the cleaning process, we 
 ### **Data Transformation & Preprocessing**
 ---
 
-To handle the data cleaning challenges programmatically and transform the raw survey responses into structured, analyzable data, we developed the following Python scripts in our repository:
+To handle the data cleaning challenges programmatically and transform raw survey responses into structured, analyzable data, we developed a unified Python script:
 
-* **[translate_form.py](https://github.com/yossefhaytham/Population-Health/blob/main/Scripts_Preprocessing/translate_Form.py):** Because our survey reached a diverse audience, we collected responses in both Arabic and English. This script acts as the primary data integration tool. It loads the raw Excel files, applies a comprehensive nested dictionary to translate all Arabic categorical responses into standardized English values, unifies the column headers, and merges the two sources into one data set. This ensures our analysis is conducted on a single, uniform data source.
+**[Survey_Optimization](https://github.com/yossefhaytham/Population-Health/blob/main/Script_Preprocessing/Survey_Optimization.py):**  This script serves as the primary data integration and cleaning pipeline. It automates the following key tasks:
 
+* **Translation & Integration**: It translates Arabic categorical responses into standardized English using comprehensive nested dictionaries and merges the dual-language sources into one uniform dataset.
 
-* **[fix_error_data.py](https://github.com/yossefhaytham/Population-Health/blob/main/Scripts_Preprocessing/fix_error_data.py):** Text-entry fields in surveys are highly prone to user errors, extra spaces, and inconsistent spellings. This script targets these specific columns (such as the "Which apps consume the most of your time?" column). It performs automated string cleaning by stripping leading and trailing spaces, and utilizes a mapping dictionary to correct typos and unify different naming conventions (e.g., converting "Youtyoub", "YouTube ", and Arabic variations strictly into a unified "Youtube"). This step is critical for accurate grouping and visualization in our final dashboards.
+* **Automated Data Cleaning**: It targets text-entry fields (like the "Apps" column) to fix user errors, strip extra spaces, and unify inconsistent spellings (e.g., converting "Youtyoub" and Arabic variations strictly into "YouTube").
 
+By streamlining these steps into a single workflow, we ensure our analysis and final dashboards are built on a consistent and error-free data foundation.
 ## **Data Modeling**
 
 ### **1. Survey Data Analysis (Local Field Data)**
