@@ -40,6 +40,32 @@ To handle the data cleaning challenges programmatically and transform raw survey
 * **Automated Data Cleaning**: It targets text-entry fields (like the "Apps" column) to fix user errors, strip extra spaces, and unify inconsistent spellings (e.g., converting "Youtyoub" and Arabic variations strictly into "YouTube").
 
 By streamlining these steps into a single workflow, we ensure our analysis and final dashboards are built on a consistent and error-free data foundation.
+
+## Data Normalization
+
+The project follows a **Star Schema** data modeling approach to ensure efficient storage, fast querying, and scalable analytics.
+
+The central **fact table** (`survey_data`) stores the main survey responses and behavioral metrics, while related **dimension tables** provide descriptive attributes such as:
+
+* Content Format
+* Skip Point
+* Doomscroll Frequency
+* Visual Effects
+* Employment Status
+* Stay Factors
+
+#### Key Design Features
+
+* Built using **1:N (One-to-Many)** relationships between the fact table and dimension tables.
+* Uses **surrogate keys** to optimize joins and maintain data integrity.
+* Reduces redundancy through **data normalization**.
+* Improves analytical performance for **Power BI dashboards** and SQL queries.
+* Supports scalable and structured reporting for user behavior analysis.
+
+#### Entity Relationship Overview
+
+The data model connects all dimensions to the central fact table, enabling flexible filtering, aggregation, and deeper insights into user engagement patterns.
+
 ## **Data Modeling**
 
 ### **1. Egypt Data Analysis (Local Field Data)**
