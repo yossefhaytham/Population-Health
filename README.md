@@ -1,4 +1,4 @@
-# Population Health Analysis: Impact of Social Media on Mental Health
+# Impact of Social Media on Mental Health
 
 ## Project Mission
 The main goal of this project is to improve daily life by understanding how social media affects us. By looking at real data, we aim to find ways to help people reduce their time online and focus more on their physical health and real-life social connections. This project is about moving toward a healthier, more balanced lifestyle in a digital world.
@@ -42,7 +42,7 @@ To handle the data cleaning challenges programmatically and transform raw survey
 By streamlining these steps into a single workflow, we ensure our analysis and final dashboards are built on a consistent and error-free data foundation.
 ## **Data Modeling**
 
-### **1. Survey Data Analysis (Local Field Data)**
+### **1. Egypt Data Analysis (Local Field Data)**
 [**survey data**](https://github.com/yossefhaytham/Population-Health/blob/main/Data/survey_data_original.xlsx)
 
 This phase focuses on converting qualitative survey responses into a quantitative framework for deeper behavioral analysis.
@@ -54,7 +54,7 @@ This phase focuses on converting qualitative survey responses into a quantitativ
 
 ---
 
-### **2. Gen Z Digital Wellness (Kaggle Dataset)**
+### **2. Global Dataset (Gen Z Digital Wellness )**
 [**Kaggle data**](https://www.kaggle.com/datasets/hammadansari7/gen-z-mental-wellness-and-digital-lifestyle-patterns)
 
 This stage involves the creation of complex, high-level psychological indices to measure the "digital cost" on modern lifestyles.
