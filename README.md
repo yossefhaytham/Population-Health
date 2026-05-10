@@ -107,15 +107,17 @@ This stage involves the creation of complex, high-level psychological indices to
   <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:16px; padding:25px; width:100%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: 0.3s;">
     <img src="https://github.com/yossefhaytham.png" width="110" style="border-radius:12px;" /><br><br>
     <b style="font-size:18px;">Yossef Haytham</b><br>
+    <i style="color: #8b949e;">Data collection, Researcher</i><br>
     <a href="https://github.com/yossefhaytham">github.com/yossefhaytham</a>
   </div>
 </td>
 
 <td align="center" width="50%">
   <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:16px; padding:25px; width:100%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: 0.3s;">
-    <img src="https://github.com/alma8raby.png" width="110" style="border-radius:12px;" /><br><br>
-    <b style="font-size:18px;">Ibrahim Abduljawad</b><br>
-    <a href="https://github.com/alma8raby">github.com/alma8raby</a>
+    <img src="https://github.com/Ahmedsherif1306.png" width="110" style="border-radius:12px;" /><br><br>
+    <b style="font-size:18px;">Ahmed Sherif</b><br>
+    <i style="color: #8b949e;">Data Modeling</i><br>
+    <a href="https://github.com/Ahmedsherif1306">github.com/Ahmedsherif1306</a>
   </div>
 </td>
 
@@ -125,22 +127,23 @@ This stage involves the creation of complex, high-level psychological indices to
 
 <td align="center" width="50%">
   <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:16px; padding:25px; width:100%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: 0.3s;">
-    <img src="https://github.com/Ahmedkamalhikal.png" width="110" style="border-radius:12px;" /><br><br>
-    <b style="font-size:18px;">Ahmed Kamal</b><br>
-    <a href="https://github.com/Ahmedkamalhikal">github.com/Ahmedkamalhikal</a>
+    <img src="https://github.com/alma8raby.png" width="110" style="border-radius:12px;" /><br><br>
+    <b style="font-size:18px;">Ibrahim Abduljawad</b><br>
+    <i style="color: #8b949e;">Data Analysis</i><br>
+    <a href="https://github.com/alma8raby">github.com/alma8raby</a>
   </div>
 </td>
 
 <td align="center" width="50%">
   <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:16px; padding:25px; width:100%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: 0.3s;">
-    <img src="https://github.com/Ahmedsherif1306.png" width="110" style="border-radius:12px;" /><br><br>
-    <b style="font-size:18px;">Ahmed Sherif</b><br>
-    <a href="https://github.com/Ahmedsherif1306">github.com/Ahmedsherif1306</a>
+    <img src="https://github.com/Ahmedkamalhikal.png" width="110" style="border-radius:12px;" /><br><br>
+    <b style="font-size:18px;">Ahmed Kamal</b><br>
+    <i style="color: #8b949e;">Data Visualization</i><br>
+    <a href="https://github.com/Ahmedkamalhikal">github.com/Ahmedkamalhikal</a>
   </div>
 </td>
 
 </tr>
 
 </table>
-
 </div>
