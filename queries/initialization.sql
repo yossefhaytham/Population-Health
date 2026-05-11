@@ -61,6 +61,10 @@ create table if not exists public.egypt_data (
     high_doomscroll_low_sleep integer
 );
 
+-- In Supabase Dashboard, datasets were uploaded using:
+-- Table Editor - Insert - Import Data from CSV
+
+
 -- Checks
 
 -- after create tables
