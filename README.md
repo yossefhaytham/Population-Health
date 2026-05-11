@@ -95,6 +95,117 @@ This stage involves the creation of complex, high-level psychological indices to
 
 ---
 
+## Data Analysis & Validation (SQL & Supabase)
+
+To ensure data accuracy and seamless team collaboration, all datasets were hosted on **Supabase**. This approach leveraged its PostgreSQL engine to provide a centralized "single source of truth," allowing all team members to access, query, and analyze the data in real-time.
+
+### 1. Collaborative Environment & Validation
+* **Team Accessibility:** Supabase served as the central hub, enabling the team to work simultaneously on the same datasets without version conflicts.
+* **Structural Validation:** Before analysis, we performed rigorous validation to ensure that every column and data type perfectly matched the original survey questions and logic.
+* **Integrity Metrics:** We utilized SQL to detect inconsistencies, verifying that the data was logically sound and ready for the visualization stage.
+
+### 2. Analytical SQL Queries
+We executed a series of complex SQL queries to extract deep insights from both the Egyptian and Global datasets.
+
+#### Egypt Survey Insights:
+* **Behavioral Patterns:** Analyzing morning phone habits, most used applications, and physical exercise frequency.
+* **Impact Correlations:** Investigating how different content formats affect screen time and sleep quality.
+* **Psychological Indicators:** Mapping the relationship between "doomscrolling" and recent irritability, as well as social media intensity vs. stress levels.
+* **Demographic Trends:** Breaking down daily social media consumption by gender and identifying common "skip points" in digital engagement.
+
+#### Global Gen-Z Insights:
+* **Core KPIs:** Calculating global averages for Anxiety Scores, Sleep Quality, Wellbeing Indices, and Screen Time.
+* **Risk Modeling:** Identifying relationship patterns between emotional fatigue and anxiety as screen time increases.
+* **Productivity & Mood:** Analyzing how productivity risk levels and sleep quality impact overall mood stability and motivation.
+* **Socio-Digital Comparison:** Exploring the "Social Comparison Index" across different age groups and social media usage levels.
+
+
+## Visualization (Interactive Dashboards By Power BI)
+
+
+The final stage of our project transforms the validated data into actionable insights through interactive Power BI dashboards. We developed **four dedicated dashboards** to provide a comprehensive view of the findings.
+
+> **[Access the Live Power BI Dashboards Here](https://app.powerbi.com/view?r=eyJrIjoiNzUwMTk3NGUtZDljZC00MTYyLThkMWQtM2MyODU4OWZiYTVkIiwidCI6ImRhYTQ0YmU2LWJiMmEtNGEzYy04ODI5LTdiNGU3OTgwNjI2NSJ9)**
+
+### Egypt Survey Dashboards (Local Context)
+
+* **EGY_SM (Social Media Habits):** Analyzes local patterns of screen time, platform preferences, and digital engagement specific to the Egyptian youth demographic.
+![Egypt Social Media Dashboard](https://raw.githubusercontent.com/yossefhaytham/Population-Health/refs/heads/main/Image/Egy_SM.jpg)
+
+* **EGY_Psych (Psychological Impact):** Explores the correlation between social media intensity and mental well-being indicators like sleep quality and stress levels within the local community.
+![Egypt Psychology Dashboard](https://raw.githubusercontent.com/yossefhaytham/Population-Health/refs/heads/main/Image/Egy_psych.jpg)
+
+### Global Gen-Z Dashboards (Broad Trends)
+
+* **GLOB_SM (Global Digital Wellness):** Visualizes worldwide trends in screen time and digital habits, providing a macro-perspective on how Gen-Z interacts with technology globally.
+![Global Digital Wellness Dashboard](https://raw.githubusercontent.com/yossefhaytham/Population-Health/refs/heads/main/Image/GLOB_SM.jpg)
+
+* **GLOB_Psych (Mental Health Metrics):** Focuses on the "digital cost" by modeling the relationship between high digital consumption and psychological metrics such as anxiety and overthinking scores across international borders.
+![Global Mental Health Dashboard](https://raw.githubusercontent.com/yossefhaytham/Population-Health/refs/heads/main/Image/GLOB_psych.jpg)
+---
+
+> **Data Access:** The raw and processed data used for these visualizations can be found in the [Dashboard directory](https://github.com/yossefhaytham/Population-Health/tree/main/Dashboard).
+---
+
+## Key Insights Findings
+
+
+
+### Local Insights (Egypt Survey)
+
+* **Morning Habits and Irritability:** Analysis reveals a strong correlation between checking phones immediately upon waking and daily irritability levels. Participants who "Always" check their phones in the morning reported significantly higher stress scores throughout the day.
+* **Content Format Impact:** Short-form video content is the primary driver for excessive screen time and sleep deprivation among Egyptian youth. This format has a much higher negative impact on sleep quality compared to educational content or real-life stories.
+* **Physical Activity Decline:** A concerning trend in physical health was identified, with over 46% of participants reporting that they have stopped practicing physical exercises, indicating a shift toward a more sedentary digital lifestyle.
+* **Gender-Based Usage Patterns:** Usage intensity varies by gender; while the majority of male participants fall within the 1-3 hour usage bracket, female participants show a higher density in the 3-5 hour daily usage category.
+
+---
+
+### Global Insights (Gen-Z Trends)
+
+* **Digital Saturation Metrics:** The global average screen time stands at 7.02 hours per day, which directly correlates with a lower overall Wellbeing Index average of 3.87.
+* **Social Comparison Index:** There is a direct linear relationship between social media usage levels and the Social Comparison Index. As usage frequency increases, the tendency for users to compare their lives with others rises, leading to increased anxiety.
+* **The Cost of High Consumption:** The data shows a clear upward trend in both Emotional Fatigue and Anxiety Scores as screen time increases, highlighting the significant psychological cost of high digital consumption.
+* **Sleep Risk and Mood Stability:** Sleep deprivation serves as the strongest predictor of mood instability globally. Users categorized under "Extreme Sleep Risk" consistently recorded the lowest Mood Stability Scores across all demographics.
+* **Motivation and Status:** Interestingly, participants who are both students and working reported higher motivation levels compared to those who are only studying or only working, suggesting that a busy, structured schedule may positively influence engagement levels.
+
+---
+
+> **Note:** The points listed above represent the most critical highlights of the analysis. For a more comprehensive and granular exploration of the data, please refer to the interactive dashboards linked below.
+
+## Scientific Research & Literature Review
+
+The findings of this project are supported by established scientific studies that examine the direct impact of digital consumption on mental performance and psychological health.
+
+### 1. [Social Media Detox and Youth Mental Health](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804561) (JAMA Network Study)
+* **Objective:** Analyzing the impact of digital behavior on the mental health of young adults (aged 18-24).
+* **Methodology:** Utilizing "Digital Phenotypes" and EMA (Ecological Momentary Assessment) to accurately track real-time behavior.
+* **Experiment:** Reducing social media usage to a strict limit of 30 minutes per day.
+* **Results:** Within just one week, researchers observed significant improvements in mental well-being. The study recorded a marked reduction in symptoms of anxiety, depression, and sleep disturbances.
+
+### 2. [Blocking mobile internet on smartphones improves sustained attention](https://academic.oup.com/pnasnexus/article/3/1/pgad441/7511740) (PNAS Nexus Study)
+* **Objective:** Measuring the cognitive focus of 467 participants (aged 18-30) during a period of restricted data access.
+* **Methodology:** A complete blocking of mobile internet for two weeks, allowing only voice calls and SMS messages.
+* **Mental Outcomes:** Participants experienced a significant increase in focus and self-control.
+* **Social Impact:** The study successfully challenged the "FOMO" (Fear Of Missing Out) myth, with participants replacing digital browsing with genuine social connections, physical exercise, and reading.
+
+
+
+## Practical Solutions for Digital Well-being
+
+
+
+Based on the synthesis of our data analysis and the aforementioned scientific research, we propose five actionable strategies to optimize digital habits:
+
+1. **The Morning Delay:** Avoid using your phone or checking notifications for the first 30-60 minutes after waking up to ensure a calm and centered mind.
+2. **Scheduled Detox:** Proactively enable "Do Not Disturb" modes and establish fixed hours throughout the day for a complete digital break.
+3. **Behavioral Monitoring:** Regularly evaluate your digital engagement by asking: "Is this application currently energizing me or draining my mental energy?"
+4. **Combat Passive Scrolling:** Actively limit the consumption of "Reels" and short-form infinite scrolls to preserve cognitive focus and mental stamina.
+5. **Visual Aid (Grayscale Mode):** Utilize your device's grayscale display setting to reduce the neurological appeal of application interfaces, thereby decreasing impulsive browsing.
+
+---
+
+> **Note:** These solutions are designed to address the usage patterns identified in our analysis, focusing on intentional engagement rather than the complete abandonment of digital tools.
+
 ## Team Members
 
 <div align="center" style="width: 100%;">
